@@ -1,0 +1,63 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_PROFILES = 'GET_PROFILES';
+export const GET_REPOS = 'GET_REPOS';
+export const NO_REPOS = 'NO_REPOS';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const ACCOUNT_DELETED = 'ACCOUNT_DELETED';
+export const GET_USERS = 'GET_USERS';
+export const ERROR_GET_USERS = 'ERROR_GET_USERS';
+export const CREATE_USER_JUGE = 'CREATE_USER_JUGE';
+export const ERROR_CREATE = 'ERROR_CREATE';
+export const CREATED_DEMANDE = 'CREATED_DEMANDE';
+export const ERROR_CREATE_DEMANDE = 'ERROR_CREATE_DEMANDE';
+export const UPLOADFILE = 'UPLOADFILE';
+export const ERRORFILE = 'ERRORFILE';
+// Mediation
+export const GET_MEDIATIONS_SOCIETE = 'GET_MEDIATIONS_SOCIETE';
+export const ERROR_GET_MEDIATIONS_SOCIETE = 'ERROR_GET_MEDIATIONS_SOCIETE';
+
+// Socket
+
+export const UPDATEUPDATEETAT = 'UPDATEUPDATEETAT';
+export const INCREMENT_COUNTER = 'INCREMENT_COUNTER';
+
+// chat reducer
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const ADD_NOTIFICATION = 'ADD_NOTIFICATION';
+
+// socket reducer
+export const OPEN_WEBSOCKET = 'OPEN_WEBSOCKET';
+export const CLOSE_WEBSOCKET = 'CLOSE_WEBSOCKET';
+export const UPDATE_SOCKET_OBJECT = 'UPDATE_SOCKET_OBJECT';
+
+// Get All Notification
+export const GET_ALL_NOTIFICATION = 'GET_ALL_NOTIFICATION';
+export const GET_NOTIFI = 'GET_NOTIFI';
+export const ADD_NOTIFI = 'ADD_NOTIFI';
+export const INITIAL_DATA = 'INITIAL_DATA';
+
+export const GET_ALL_JUGE = 'GET_ALL_JUGE';
+export const GET_JUGE_PROFILE = 'GET_JUGE_PROFILE';
+
+export const GET_ALL_MODI = 'GET_ALL_MEDI';
+export const GET_MEDI_BYID = 'GET_MEDI_BYID';
+export const CREATE_MEDI = 'GET_MEDI';
+export const ADD_PV = 'ADD_PV';
+
+
+
+export const GET_ALL_JUGE_MES = 'GET_ALL_JUGE_MES';
+export const GET_ALL_MAILLING = 'GET_ALL_MAILLING';
+export const ADD_MAILLING = 'ADD_MAILLING';
+export const EROOR_MAILLING = 'EROOR_MAILLING';

@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://wael:wael@pfeproject-xhuqs.mongodb.net/test?retryWrites=true&w=majority",
+  "Jwt_Secret": "KLDSkjkdl&56hjk"
+}
